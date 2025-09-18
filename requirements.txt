@@ -1,0 +1,7 @@
+torch
+numpy
+scikit-learn
+gensim
+tqdm
+scipy
+PyYAML
