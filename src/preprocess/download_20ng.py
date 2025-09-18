@@ -5,7 +5,7 @@ from sklearn.datasets import fetch_20newsgroups
 import sys
 sys.path.append('.')
 
-from utils.data import file_utils
+from utils import file_utils
 
 
 def main():

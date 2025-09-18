@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 import sys
 sys.path.append('.')
-from utils.data import file_utils
+from utils import file_utils
 
 
 # compile some regexes
